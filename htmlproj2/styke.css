@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    background-color: rgb(57, 0, 0);
+ display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.con{
+    padding: 1cm;
+    background-color: beige;
+text-align: center;
+}
+a{
+    color: maroon;
+    font-weight: 700;
+}
+li{
+    list-style: upper-roman;
+}
+p{
+    color: rgb(35, 35, 35);
+}
+h1{
+    text-decoration: underline;
+    color: rgb(84, 0, 0);
+}
+h2{
+    color: maroon;
+}
